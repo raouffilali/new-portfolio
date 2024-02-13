@@ -1,6 +1,6 @@
 
 
-# [RSF Portfolio]
+# RSF Portfolio
 
 A professional portfolio website showcasing my skills and projects, built with React.js, Next.js 14, Tailwind CSS, and Shadcn UI.
 
@@ -63,4 +63,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-[Abderraouf FILALI] - [mr.abderraouf.filali@gmail.com] - [[Your Website or LinkedIn Profile](https://www.linkedin.com/in/abderraouf-filali/)]
+Abderraouf FILALI - mr.abderraouf.filali@gmail.com - [[LinkedIn](https://www.linkedin.com/in/abderraouf-filali/)]
