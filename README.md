@@ -63,4 +63,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-Abderraouf FILALI - mr.abderraouf.filali@gmail.com - [[LinkedIn](https://www.linkedin.com/in/abderraouf-filali/)]
+Abderraouf FILALI - mr.abderraouf.filali@gmail.com - [LinkedIn](https://www.linkedin.com/in/abderraouf-filali/)
