@@ -1,6 +1,6 @@
 
 
-# RSF Portfolio
+# My Portfolio
 
 A professional portfolio website showcasing my skills and projects, built with React.js, Next.js 14, Tailwind CSS, and Shadcn UI.
 
