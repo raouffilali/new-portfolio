@@ -1,4 +1,3 @@
-import Image from "next/image";
 
 export default function Home() {
   return (
@@ -10,6 +9,10 @@ export default function Home() {
         width={500}
         height={500}
       />
+      {/* from the sound directory i want to play the sound in a loop when user enter the page  */}
+      <audio autoPlay loop muted>
+        <source src="/public/sounds/sound-1.mp3" type="audio/mpeg" />
+      </audio>
     </div>
   );
 }
